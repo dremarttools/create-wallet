@@ -1,0 +1,26 @@
+{
+  "name": "Dremart Wallet",
+  "short_name": "Dremart Wallet",
+  "description": "Create and manage your multi-chain Dremart Wallet.",
+  "id": "/web3/create-wallet/",
+  "start_url": "/web3/create-wallet/?source=pwa",
+  "scope": "/web3/create-wallet/",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#2563eb",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicons/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicons/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
